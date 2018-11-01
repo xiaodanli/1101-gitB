@@ -1,0 +1,22 @@
+{
+  "name": "1101-gitb",
+  "version": "1.0.0",
+  "description": "1101-gitB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaodanli/1101-gitB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaodanli/1101-gitB/issues"
+  },
+  "homepage": "https://github.com/xiaodanli/1101-gitB#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
